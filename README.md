@@ -5,7 +5,7 @@ I'm a passionate Software Developer with a focus on building applications that a
 
 ## 🛠 Skills
 - **Languages & Frameworks:** JavaScript, TypeScript, React.js, Angular, Node.js
-- **Databases:** MySQL
+- **Databases:** MySQL, PostgreSQL, MongoDB
 - **Cloud Services:** AWS
 - **Other Skills:** Problem-solving, Team Collaboration, Continuous Learning
 
