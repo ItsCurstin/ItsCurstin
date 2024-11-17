@@ -14,6 +14,7 @@ I'm a passionate Software Developer with a focus on building applications that a
 - Exploring new frameworks and languages to enhance my full-stack development skills.
 
 ## 💼 Work Experience
+- Billing Analyst at [CSG International](https://www.csgi.com/)
 - Software Engineer Intern at [CSG International](https://www.csgi.com/)
 
 ## ✍ Side Projects
