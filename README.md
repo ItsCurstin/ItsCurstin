@@ -4,7 +4,7 @@
 I'm a passionate Software Developer with a focus on building applications that are not only useful but also generate value. My journey in tech is driven by my enthusiasm for software development, science, and music. When I'm not coding, you might find me working out or playing the keyboard.
 
 ## 🛠 Skills
-- **Languages & Frameworks:** JavaScript, TypeScript, React.js, Angular, Node.js
+- **Languages & Frameworks:** JavaScript, TypeScript, React.js, Angular, Node.js, Python
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Cloud Services:** AWS
 - **Other Skills:** Problem-solving, Team Collaboration, Continuous Learning
